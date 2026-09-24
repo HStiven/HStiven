@@ -2,7 +2,7 @@
 
 ![Ubicación](https://img.shields.io/badge/Ubicación-Bogotá%2C%20Colombia-009246?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-> **Desarrollador Web Frontend | Estudiante de Ingeniería de Software (UCompensar)**
+> **Desarrollador Web Frontend | Estudiante de Ingeniería de Software**
 
 Desarrollador enfocado en el ecosistema Frontend moderno con **React.js**, **TypeScript** y **TailwindCSS**. Cuento con cerca de 2 años de experiencia construyendo interfaces web responsive, dashboards interactivos, tablas dinámicas con filtros avanzados y consumo de APIs REST.
 
