@@ -27,10 +27,3 @@ Desarrollador enfocado en el ecosistema Frontend moderno con **React.js**, **Typ
 
 #### Herramientas & Entorno
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-### 📬 Conectemos
-
-- 💼 **LinkedIn:** [hernandostivencortes-dev](https://www.linkedin.com/in/hernandostivencortes-dev/)
-- 📧 **Correo:** [hernandostivencortes@gmail.com](mailto:hernandostivencortes@gmail.com)
