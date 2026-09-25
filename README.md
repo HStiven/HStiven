@@ -1,5 +1,3 @@
-# ¡Hola! Soy Hernando Stiven Cortés Lopez👋
-
 ![Ubicación](https://img.shields.io/badge/Ubicación-Bogotá%2C%20Colombia-009246?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 > **Desarrollador Web Frontend | Estudiante de Ingeniería de Software**
